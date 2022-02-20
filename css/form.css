@@ -2,10 +2,8 @@
   display: flex;
   justify-content: center;
   position: absolute;
-  bottom: 200px;
   z-index: 1;
-  font-size: 30px;
-  color: white;
+  bottom: 200px;
 }
 
 .login-form input {
