@@ -27,11 +27,3 @@ body > img {
   width: 100vw;
   z-index: 0;
 }
-
-#greeting {
-  position: absolute;
-  top: 100px;
-  z-index: 1;
-  font-size: 30px;
-  color: white;
-}
