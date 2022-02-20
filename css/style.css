@@ -31,7 +31,7 @@ body > img {
 #greeting,
 body > form {
   position: absolute;
-  bottom: 200px;
+  top: 150px;
   z-index: 1;
   font-size: 30px;
   color: white;
