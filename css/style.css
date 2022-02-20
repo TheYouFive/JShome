@@ -3,7 +3,6 @@
 @import "./clock.css";
 @import "./quote.css";
 @import "./reset.css";
-@import "./form.css";
 
 .hidden {
   display: none;
