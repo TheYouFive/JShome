@@ -28,10 +28,9 @@ body > img {
   z-index: 0;
 }
 
-#greeting,
-body > form {
+#greeting {
   position: absolute;
-  top: 150px;
+  top: 100px;
   z-index: 1;
   font-size: 30px;
   color: white;

@@ -2,7 +2,10 @@
   display: flex;
   justify-content: center;
   position: absolute;
-  top: 700px;
+  bottom: 200px;
+  z-index: 1;
+  font-size: 30px;
+  color: white;
 }
 
 .login-form input {
