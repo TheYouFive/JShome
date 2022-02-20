@@ -26,4 +26,4 @@ if (savedUsername === null) {
 } else {
   paintGreeting(savedUsername);
 }
-sessionStorage.clear();
+localStorage.clear();
